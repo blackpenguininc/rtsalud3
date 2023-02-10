@@ -3,7 +3,6 @@ import About from './About'
 import Advancedtab from './Advancedtab'
 import Service from './Service'
 import Testimonials from './Testimonials'
-import Video from './Video'
 
 class Content extends Component {
     render() {
@@ -12,7 +11,6 @@ class Content extends Component {
                 <About />
                 <Service />
                 <Advancedtab />
-                <Video />
                 <Testimonials />
             </Fragment>
         );

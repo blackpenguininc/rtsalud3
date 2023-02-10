@@ -2,14 +2,14 @@ import React from 'react'
 import Slider from 'react-slick'
 
 import author1 from '../../../assets/img/testimonial/author-9.png'
+import author2 from '../../../assets/img/testimonial/author-10.png'
+import author3 from '../../../assets/img/testimonial/author-11.png'
 
 const testimonialslide = [
-    { img: author1, name: 'Richard E. Harrisona', post: 'CEO & Founder', comment: 'Sedut perspiciatis unde omniiste natus errorsit voluptatem accusant doloremque laudantium, totam rem aperiam, eaque ipsa quae ab ilinventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut' },
-    { img: author1, name: 'Richard E. Harrisona', post: 'CEO & Founder', comment: 'Sedut perspiciatis unde omniiste natus errorsit voluptatem accusant doloremque laudantium, totam rem aperiam, eaque ipsa quae ab ilinventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut' },
-    { img: author1, name: 'Richard E. Harrisona', post: 'CEO & Founder', comment: 'Sedut perspiciatis unde omniiste natus errorsit voluptatem accusant doloremque laudantium, totam rem aperiam, eaque ipsa quae ab ilinventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut' },
-    { img: author1, name: 'Richard E. Harrisona', post: 'CEO & Founder', comment: 'Sedut perspiciatis unde omniiste natus errorsit voluptatem accusant doloremque laudantium, totam rem aperiam, eaque ipsa quae ab ilinventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut' },
-    { img: author1, name: 'Richard E. Harrisona', post: 'CEO & Founder', comment: 'Sedut perspiciatis unde omniiste natus errorsit voluptatem accusant doloremque laudantium, totam rem aperiam, eaque ipsa quae ab ilinventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut' },
-]
+    { img: author1, name: 'Persona 1', post: 'CEO & Founder', comment: 'Sedut perspiciatis unde omniiste natus errorsit voluptatem accusant doloremque laudantium, totam rem aperiam, eaque ipsa quae ab ilinventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut' },
+    { img: author2, name: 'Persona 2', post: 'CEO & Founder', comment: 'Sedut perspiciatis unde omniiste natus errorsit voluptatem accusant doloremque laudantium, totam rem aperiam, eaque ipsa quae ab ilinventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut' },
+    { img: author3, name: 'Persona 3', post: 'CEO & Founder', comment: 'Sedut perspiciatis unde omniiste natus errorsit voluptatem accusant doloremque laudantium, totam rem aperiam, eaque ipsa quae ab ilinventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut' },
+    ]
 const SampleNextArrow = (props) => {
     const { onClick } = props
     return (

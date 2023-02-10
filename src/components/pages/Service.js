@@ -11,14 +11,14 @@ class Service extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Finsa | Services</title>
+                    <title>RTSalud | Servicios</title>
                     <meta
                         name="description"
                         content="#"
                     />
                 </MetaTags>
                 <Header />
-                <Breadcrumbs breadcrumb={{ pagename: 'Services' }} />
+                <Breadcrumbs breadcrumb={{ pagename: 'Servicios' }} />
                 <Content />
                 <section className="client-section">
                     <div className="container">

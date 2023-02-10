@@ -11,7 +11,7 @@ class Portfolio extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Finsa | Portfolio</title>
+                    <title>RTSalud | Galería</title>
                     <meta
                         name="description"
                         content="#"

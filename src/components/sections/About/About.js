@@ -15,8 +15,8 @@ function About(props) {
                     <div className="col-lg-6 col-md-10">
                         <div className="about-text">
                             <div className="section-title left-border mb-40">
-                                <span className="title-tag">About Us</span>
-                                <h2 className="title">Professional Business <br /> Guidance Agency </h2>
+                                <span className="title-tag">Sobre Nosotros</span>
+                                <h2 className="title">Agencia de Asesoria <br /> Profesional </h2>
                             </div>
                             <p className="mb-25">
                                 Sedut perspiciatis unde omnis iste natus error sit voluptat em accusantium doloremq
@@ -26,10 +26,10 @@ function About(props) {
                                 Doloremque laudantium, totam raperiaeaque ipsa quae ab illo inventore veritatis et quasi
                                 </p>
                             <ul className="about-list">
-                                <li> <i className="far fa-check" /> Business &amp; Consulting Agency</li>
-                                <li> <i className="far fa-check" /> Awards Winning Business Comapny</li>
+                                <li> <i className="far fa-check" /> Caracteristica 1</li>
+                                <li> <i className="far fa-check" /> Caracteristica 2</li>
                             </ul>
-                            <Link to="/about" className="main-btn">Learn More</Link>
+                            <Link to="/about" className="main-btn">Leer Más</Link>
                         </div>
                     </div>
                 </div>

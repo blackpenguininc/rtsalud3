@@ -11,14 +11,14 @@ class About extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Finsa | About Us</title>
+                    <title>RTSalud | Nosotros</title>
                     <meta
                         name="description"
                         content="#"
                     />
                 </MetaTags>
                 <Header />
-                <Breadcrumbs breadcrumb={{ pagename: 'About Us' }} />
+                <Breadcrumbs breadcrumb={{ pagename: 'Nosotros' }} />
                 <Content />
                 <section className="client-section">
                     <div className="container">

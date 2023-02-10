@@ -5,7 +5,7 @@ const navigationmenu = [
     {
         id: 1,
         linkText: 'Inicio',
-        child: false,
+        link: '/',
         // submenu: [
         //     {
         //         id: 11,
@@ -60,7 +60,7 @@ const navigationmenu = [
     {
         id: 3,
         linkText: 'Servicios',
-        child: false,
+        link: '/service',
         // submenu: [
         //     {
         //         id: 31,
@@ -82,7 +82,7 @@ const navigationmenu = [
     {
         id: 4,
         linkText: 'Galería',
-        child: false,
+        link: '/portfolio',
         // submenu: [
         //     {
         //         id: 41,

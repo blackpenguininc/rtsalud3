@@ -10,10 +10,10 @@ import icon3 from '../../../assets/img/icons/03.png'
 import icon4 from '../../../assets/img/icons/04.png'
 
 const serviceblock = [
-    { icon: icon1, title: 'Creative Idea', text: 'Sed perspicia unde omnis' },
-    { icon: icon2, title: 'Business Strategy', text: 'Quis autem velrepres hend' },
-    { icon: icon3, title: 'Relationship', text: 'Sed perspicia unde omnis' },
-    { icon: icon4, title: 'Productivity', text: 'Quis autem velrepres hend' },
+    { icon: icon1, title: 'Implementación BPM, BPA, BPDT, BPOF', text: 'Enfocada en el... ' },
+    { icon: icon2, title: 'Consultoría BPM, BPA, BPDT, BPOF', text: 'Esta unidad se encarga de capacitaciones en ...' },
+    { icon: icon3, title: 'Capacitaciones', text: 'Esta unidad se encargará del asesoramiento requerido por usted en...' },
+    { icon: icon4, title: 'Registros Sanitarios: DIGEMID, DIGESA', text: 'Esta unidad se encargará...' },
 ]
 
 
@@ -24,8 +24,8 @@ function Service(props) {
             <div className="container">
                 {/* Section Title */}
                 <div className="section-title text-center both-border mb-50">
-                    <span className="title-tag">Most Features</span>
-                    <h2 className="title">We Provide Most Exclusive <br /> Service For Business</h2>
+                    <span className="title-tag">Algunos Servicios</span>
+                    <h2 className="title">Brindamos el servicio más <br /> exclusivo para empresas</h2>
                 </div>
                 {/* Services Boxes */}
                 <div className="row service-boxes justify-content-center">

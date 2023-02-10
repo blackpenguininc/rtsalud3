@@ -10,14 +10,21 @@ import icon3 from '../../../assets/img/icons/03.png'
 import icon4 from '../../../assets/img/icons/04.png'
 
 const serviceblock = [
-    { icon: icon1, title: 'Creative Idea', text: 'Sed perspicia unde omnis' },
-    { icon: icon2, title: 'Business Strategy', text: 'Quis autem velrepres hend' },
-    { icon: icon3, title: 'Relationship', text: 'Sed perspicia unde omnis' },
-    { icon: icon4, title: 'Productivity', text: 'Quis autem velrepres hend' },
-    { icon: icon1, title: 'Creative Idea', text: 'Sed perspicia unde omnis' },
-    { icon: icon2, title: 'Business Strategy', text: 'Quis autem velrepres hend' },
-    { icon: icon3, title: 'Relationship', text: 'Sed perspicia unde omnis' },
-    { icon: icon4, title: 'Productivity', text: 'Quis autem velrepres hend' },
+    { icon: icon1, title: 'Implementación BPM, BPA, BPDT, BPOF', text: 'Sed perspicia unde omnis' },
+    { icon: icon2, title: 'Consultoría BPM, BPA, BPDT, BPOF', text: 'Quis autem velrepres hend' },
+    { icon: icon3, title: 'Capacitaciones', text: 'Sed perspicia unde omnis' },
+    { icon: icon4, title: 'Registros Sanitarios: DIGEMID, DIGESA', text: 'Quis autem velrepres hend' },
+    { icon: icon1, title: 'Levantamiento de observaciones: DIGEMID, DIGESA', text: 'Sed perspicia unde omnis' },
+    { icon: icon2, title: 'Transferencia de Registros Sanitarios', text: 'Quis autem velrepres hend' },
+    { icon: icon3, title: 'Registros de Marca y Nombres Comerciales', text: 'Sed perspicia unde omnis' },
+    { icon: icon4, title: 'Mapeos Térmicos', text: 'Quis autem velrepres hend' },
+    { icon: icon2, title: 'Calibración de termohigrómetros', text: 'Quis autem velrepres hend' },
+    { icon: icon3, title: 'Diseño de plantas', text: 'Sed perspicia unde omnis' },
+    { icon: icon4, title: 'Asesoría en legislación Farmacéutica, procesos administrativos', text: 'Quis autem velrepres hend' },
+    { icon: icon1, title: 'Asesoría en Validación de técnicas analíticas', text: 'Sed perspicia unde omnis' },
+    { icon: icon2, title: 'Elaboración de POE, Instructivos, manuales, técnicas analíticas, especificaciones', text: 'Quis autem velrepres hend' },
+    { icon: icon3, title: 'Sistemas computarizados de Kardex e inventarios', text: 'Sed perspicia unde omnis' },
+    { icon: icon4, title: 'Facturación electrónica y contabilidad', text: 'Quis autem velrepres hend' },
 ]
 
 
