@@ -18,7 +18,7 @@ class Portfolio extends Component {
                     />
                 </MetaTags>
                 <Header />
-                <Breadcrumbs breadcrumb={{ pagename: 'Portfolio' }} />
+                <Breadcrumbs breadcrumb={{ pagename: 'Galería' }} />
                 <Content />
                 <section className="client-section">
                     <div className="container">
